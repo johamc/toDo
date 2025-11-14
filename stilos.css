@@ -1,0 +1,29 @@
+#titulo{
+  display: flex; /*permite distribuir y alinear elementos de forma más fácil y flexible dentro de él*/
+  justify-content: center; /*Centra horizontalmente*/
+  align-items: center;  /* Centra verticalmente */
+}
+
+li{
+  display: flex; /*permite distribuir y alinear elementos de forma más fácil y flexible dentro de él*/
+  justify-content: center; /*Centra horizontalmente*/
+  align-items: center;  /* Centra verticalmente */
+}
+
+form{
+  display: flex; /*permite distribuir y alinear elementos de forma más fácil y flexible dentro de él*/
+  justify-content: center; /*Centra horizontalmente*/
+  align-items: center;  /* Centra verticalmente */
+}
+
+section {
+   margin: 40px 0; /* separa verticalmente las secciones */
+}
+
+#mi-imagen{
+  display: block;          /* convierte la imagen en un bloque */
+  margin: 0 auto;          /* centra horizontalmente */
+  width: 300px;            /* cambia el ancho */
+  height: auto;            /* mantiene la proporción */
+  
+}
